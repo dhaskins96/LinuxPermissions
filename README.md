@@ -36,30 +36,26 @@ Check whether any files in the projects directory have write permissions for the
 <br />
 <br />
 Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H3LyU1b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. List the contents and permissions of the current directory and check if the group has read or write permissions:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JeE0vAw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change permissions of the project_m.txt file so that the group doesn’t have read or write permissions.:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s8fXP1J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change the permissions of the file .project_x.txt so that both the user and the group can read, but not write to, the file: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/muv2yrP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> Check the permissions of the drafts directory:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MBLYiq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Remove the execute permission for the group from the drafts directory:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Lab complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CBRcbZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
