@@ -20,19 +20,19 @@ In this lab, I was tasked with managing file permissions within the /home/resear
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jw8A7fT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 List the contents and permissions of the projects directory:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qnDGsyK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Check whether any hidden files exist in the projects directory: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X1bdDWA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Check whether any files in the projects directory have write permissions for the owner type of other:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TJesUAJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions:  <br/>
